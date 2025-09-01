@@ -21,9 +21,6 @@
 - 输出模板化应用方案，降低用户部署复杂度  
 - 模块功能稳定上线，服务内部及客户场景  
 
-### 📷 Example | 示例
-[用户文档](https://www.sensecore.cn/help/docs/cloud-foundation/compute/ecp/productOverview/ecpQuickGuide)
-
 ---
 
 
@@ -47,5 +44,8 @@ AI云开发机是一款面向开发者的云原生产品，支持灵活配置算
 - 搭建与维护 **用户文档与最佳实践**，降低使用门槛，提高上手效率  
 - 参与 **SKU 上下架管理**，熟悉云平台资源管理流程  
 - 在大客户项目中，评估需求与平台能力的匹配度，协调研发与运营进行功能取舍，保障交付进度  
+
+### 📷 Example | 示例
+[用户文档](https://www.sensecore.cn/help/docs/cloud-foundation/compute/ecp/productOverview/ecpQuickGuide)
 
 ---
